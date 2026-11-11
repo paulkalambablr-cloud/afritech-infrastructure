@@ -74,7 +74,7 @@ Les vérifications portent notamment sur :
 
 ## 7. Environnement technique
 
-Windows Server, Ubuntu Server, Active Directory, DNS, DHCP, GLPI, Zabbix, Wazuh, VyOS, VMware Workstation et VirtualBox.
+Windows Server, Ubuntu Server, Active Directory, DNS, DHCP, GLPI, Zabbix, Wazuh, OPNsense, VMware Workstation et VirtualBox.
 
 ## 8. Nature du projet
 
