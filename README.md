@@ -33,7 +33,7 @@ Le laboratoire repose sur plusieurs zones réseau :
 | DMZ | 192.168.50.0/24 | Services exposés |
 | SOC-NOC | 192.168.60.0/24 | Supervision et sécurité |
 
-Le routage et le filtrage entre les zones sont assurés par un équipement VyOS configuré comme routeur et pare-feu.
+Le routage et le filtrage entre les zones sont assurés par un équipement OPNsense configuré comme routeur et pare-feu.
 
 ## 4. Services et composants
 
