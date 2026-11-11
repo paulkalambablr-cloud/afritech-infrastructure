@@ -45,7 +45,7 @@ Le routage et le filtrage entre les zones sont assurés par un équipement VyOS 
 | Gestion informatique | GLPI | Inventaire et tickets d'assistance |
 | Supervision | Zabbix | Surveillance des équipements et services |
 | Sécurité | Wazuh | Surveillance et analyse des événements |
-| Routage et filtrage | VyOS | Routage inter-réseaux et contrôle des flux |
+| Routage et filtrage | OPNsense | Routage inter-réseaux et contrôle des flux |
 | Virtualisation | VMware Workstation / VirtualBox | Hébergement du laboratoire |
 
 ## 5. Sécurité réseau
